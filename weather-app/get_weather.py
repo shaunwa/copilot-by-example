@@ -1,6 +1,6 @@
 import requests
 
-api_key = '5b3cf29ad61405272bd9141ee284dcbb'
+api_key = '<your api key here>'
 
 # A function that uses the requests library to make a GET
 # request to the OpenWeatherMap API for a certain location
